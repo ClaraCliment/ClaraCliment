@@ -1,4 +1,5 @@
-# Clara Climent - Junior front-end web developer & Senior graphic designer
+# **Clara Climent**
+## *Junior front-end web developer & Senior graphic designer*
 Hi! My name is Clara and I am currently following a training as a web developer junior at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/), in Brussels. I have been working as a graphic designer these last 12 years and I would like to join a digital team after my training and deepen my knowledge in web development. 
 
 ### My skills
