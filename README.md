@@ -7,10 +7,19 @@ Hi! My name is Clara and I am currently following a training as a web developer 
 * My past experience in advertising 
 * I am a teamplayer
 
-### What I like
-* Creative and design stuff!! It could be an art exhibition, a comic book, ...
-* DIY activities: in other words, creating with my own hands (sewing, jewelry making, drawing, knitting, ...)
-* Reading and watching stories (movies, books, tv shows, illustrations, ...)
+### Techs I've been using during my BeCode training
+* HTLM & CSS
+* JavaScript
+* React js
+* Bootstrap
+* Material UI
+* PHP
+* Node js
+* Express
+* Mongo DB
+* WAMP
+* Figma
+* Framer
 
 ### The objectives I would like to achieve as a developer during my training at Becode.
 I would like to be able to create a web site or an app and deeply understand how every part of it works and communicates with each other. 
@@ -22,6 +31,11 @@ Coding everyday and seeing the evolution.
 1. Sharing and learning from each other
 2. Communication 
 3. A good laugh !
+
+### Hobbies
+* Creative and design stuff!! It could be an art exhibition, a comic book, ...
+* DIY activities: in other words, creating with my own hands (sewing, jewelry making, drawing, knitting, ...)
+* Reading and watching stories (movies, books, tv shows, illustrations, ...)
 
 
 
